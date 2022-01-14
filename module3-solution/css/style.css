@@ -9,3 +9,16 @@ h2{
 .line{
     border: 2px solid black;
 }
+
+.full{
+    width: 100%;
+}
+
+.menu{
+    border:4em solid white;
+    border-top: 2em;
+}
+
+.menu-item{
+    padding:1.5em;
+}
